@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="Integrate"/>
+			<item value="SpringHibernate"/>
+			<item value="Log1"/>
+			<item value="Nine"/>
+			<item value="Eight"/>
+			<item value="Seven"/>
+			<item value="Life"/>
+			<item value="Six"/>
+			<item value="Five"/>
+			<item value="four"/>
+			<item value="class"/>
+			<item value="program"/>
+			<item value="Third"/>
+		</list>
+		<list key="name">
+			<item value="Integrate"/>
+			<item value="SpringHibernate"/>
+			<item value="Log1"/>
+			<item value="Nine"/>
+			<item value="Eight"/>
+			<item value="Seven"/>
+			<item value="Life"/>
+			<item value="Six"/>
+			<item value="Five"/>
+			<item value="four"/>
+			<item value="second"/>
+			<item value="First"/>
+			<item value="New"/>
+		</list>
+		<list key="artifactId">
+			<item value="Integrate"/>
+			<item value="SpringHibernate"/>
+			<item value="Log1"/>
+			<item value="Nine"/>
+			<item value="Eight"/>
+			<item value="Seven"/>
+			<item value="Life"/>
+			<item value="Six"/>
+			<item value="Five"/>
+			<item value="four"/>
+			<item value="class"/>
+			<item value="program"/>
+			<item value="Third"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Mynew\SpringHibernate\src\main\webapp\WEB-INF"/>
+			<item value="D:\Mynew\ThirdMvc\src\main\java\com\pack\Controller\CustomerController.java"/>
+			<item value="D:\Mynew\Eight\src\main\java\com\pack\Main.java"/>
+			<item value="D:\Mynew\program\src\main\java\beans.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

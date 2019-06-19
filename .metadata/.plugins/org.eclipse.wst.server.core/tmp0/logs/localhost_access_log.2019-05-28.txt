@@ -1,0 +1,12 @@
+127.0.0.1 - - [28/May/2019:09:37:40 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [28/May/2019:09:37:44 +0530] "GET /Integrate/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/May/2019:09:37:46 +0530] "GET /Integrate/index HTTP/1.1" 200 6243
+0:0:0:0:0:0:0:1 - - [28/May/2019:09:37:46 +0530] "GET /Integrate/images/vcard_delete.png HTTP/1.1" 200 651
+0:0:0:0:0:0:0:1 - - [28/May/2019:09:37:46 +0530] "GET /Integrate/images/vcard_edit.png HTTP/1.1" 200 775
+0:0:0:0:0:0:0:1 - - [28/May/2019:09:38:11 +0530] "POST /Integrate/customer/add.html HTTP/1.1" 200 6622
+0:0:0:0:0:0:0:1 - - [28/May/2019:10:42:24 +0530] "GET /Integrate/customer/delete/1461877 HTTP/1.1" 404 990
+0:0:0:0:0:0:0:1 - - [28/May/2019:10:42:35 +0530] "GET /Integrate/customer/index HTTP/1.1" 404 990
+0:0:0:0:0:0:0:1 - - [28/May/2019:10:42:43 +0530] "GET /Integrate/delete/1461877 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/May/2019:10:42:43 +0530] "GET /Integrate/index HTTP/1.1" 200 5738
+127.0.0.1 - - [28/May/2019:15:19:31 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [28/May/2019:15:19:34 +0530] "GET /sri/WEB-INF/sss.jsp HTTP/1.1" 404 990
